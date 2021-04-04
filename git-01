@@ -1,0 +1,5 @@
+git status   查看状态怒
+git add .    将所有文件加到仓库
+git commit -m ''   提交到本地
+git push    提交到服务器
+
